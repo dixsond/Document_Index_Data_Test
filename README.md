@@ -1,5 +1,4 @@
-
-# These websites will be used to see if GSCE can index email messages.
+ 
 
 Msg#: 1 *VHF/UHF RADIO*
 03-29-88 10:19:30
